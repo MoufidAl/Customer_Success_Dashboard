@@ -8,5 +8,4 @@ The dataset attached to this repository contains information on sales data for h
 The dashboard created in excel summarizes the data by using multiple pivots and advanced visual tools. 
 
 ## Credits
-The Project was created by The Office Lab on Youtube.
 https://www.youtube.com/watch?v=cKkXtyjleX4&ab_channel=TheOfficeLab
